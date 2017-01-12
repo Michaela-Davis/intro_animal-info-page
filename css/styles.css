@@ -1,5 +1,7 @@
 body {
-  background-color: teal;
+  background-color: lightcyan;
+  font-family: serif;
+  color: teal;
 }
 
 .well {
@@ -7,6 +9,7 @@ body {
   max-width: 295px;
   border: none;
   border-radius: 20px;
+  text-align: center;
 }
 
 img {
