@@ -8,11 +8,11 @@ body {
 .well {
   background-color: black;
   max-width: 295px;
-  min-height: 400px;
+  min-height: 300px;
   border: none;
   border-radius: 20px;
   text-align: center;
-  margin: 15px;
+  margin: 10px;
 }
 
 img {
